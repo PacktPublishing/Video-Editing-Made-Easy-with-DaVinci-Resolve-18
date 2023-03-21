@@ -3,7 +3,7 @@ Video Editing Made Easy with DaVinci Resolve 18, published by Packt
 
 <a href="https://www.packtpub.com/product/video-editing-made-easy-with-davinci-resolve-18/9781801075251"><img src="https://static.packt-cdn.com/products/9781801075251/cover/smaller" alt="Video Editing Made Easy with DaVinci Resolve 18" height="256px" align="right"></a>
 
-This is the code repository for [.NET MAUI Cross-Platform Application Development](https://www.packtpub.com/product/video-editing-made-easy-with-davinci-resolve-18/9781801075251), published by Packt.
+This is the code repository for [Video Editing Made Easy with DaVinci Resolve 18](https://www.packtpub.com/product/video-editing-made-easy-with-davinci-resolve-18/9781801075251), published by Packt.
 
 **Create quick video content for your business, the web, or social media**
 
@@ -20,7 +20,7 @@ This book covers the following exciting features:
 * Discover how to use the Neural Engine AI in the Studio Version of DaVinci Resolve to speed up your work
 * Add subtitles and dubbed audio to help your videos reach a wider audience
 
-If you feel this book is for you, get your [copy](https://www.amazon.com/dp/180056922X) today!
+If you feel this book is for you, get your [copy](https://arcus-www.amazon.in/Video-Editing-Made-DaVinci-Resolve-ebook/dp/B0BGSCL9ZV) today!
 
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
 alt="https://www.packtpub.com/" border="5" /></a>
@@ -35,15 +35,15 @@ The source code can be cloned from `main` branch or downloaded from release area
 
 Micro content dominates social media marketing, but subpar editing and low-quality videos can shrink your audience. Elevate your social media game with DaVinci Resolve - the world’s most trusted name in color grading that has been used to grade Hollywood films, TV shows, and commercials. Version 18 enables you to edit, compose VFX, mix sound, and deliver videos for different platforms, including social media and the web.
 
-With the following software and hardware list you can run all code files present in the book (Chapter 01-12).
+With the following software and hardware list you can run all code files present in the book (Chapter 1-12).
 
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://packt.link/nvY4N).
+We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://packt.link/NtGgR).
 
 
 ### Related products <Other books you may enjoy>
-* Enterprise Application Development with C# 10 and .NET 6 [[Packt]](https://www.packtpub.com/product/enterprise-application-development-with-c-10-and-net-6-second-edition/9781803232973) [[Amazon]](https://www.amazon.com/Enterprise-Application-Development-NET-professional/dp/1803232978)
+* Final Cut Pro Efficient Editing  [[Packt]](https://www.packtpub.com/product/enterprise-application-development-with-c-10-and-net-6-second-edition/9781803232973) [[Amazon]](https://www.amazon.com/Final-Cut-Pro-Efficient-Editing-ebook/dp/B08FCRNTT9)
 
-* High-Performance Programming in C# and .NET  [[Packt]](https://www.packtpub.com/product/high-performance-programming-in-c-and-net/9781800564718) [[Amazon]](https://www.amazon.com/Mastering-High-Performance-9-0-NET/dp/1800564716)
+* Filmora Efficient Editing  [[Packt]](https://www.packtpub.com/product/filmora-efficient-editing/9781801814201) [[Amazon]](https://www.amazon.com/Filmora-Efficient-Editing-high-quality-discipline/dp/1801814201)
 
 ## Get to Know the Author
-**Roger Ye** is a Senior Software Engineering Manager and leading a software development team at EPAM Systems. His team helps clients develop modern web based applications deployed to on-premises data centers or cloud. Before EPAM, he was a senior software engineering manager at McAfee where he led a team working on mobile security application development for Android, iOS and Windows.
+**Lance Phillips** (B.Hort, Dip. Drama, GTP (Secondary Education: Drama), Cert. Public Health Practice, Certified DaVinci Resolve Trainer). He founded Physical Folk, a Blackmagic Design Training Partner, to train diverse talent for the U.K. film industry. Lance has 30 years of experience training people from all backgrounds (including young people, prisoners, and people with disabilities) to develop their creative skills. After completing a Horticulture Degree, Lance studied Drama and worked as a Professional Actor on Television and Radio. He also freelanced in Lighting for Live Events, which started his love for all things technical. Lance is currently teaching a Color Grading module in the MA in Editing & Post Production at London Southbank University..
